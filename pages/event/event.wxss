@@ -1,0 +1,14 @@
+/* pages/event/event.wxss */
+input {
+  border: 1px solid #222;
+}
+#box {
+  width: 300rpx;
+  height: 300rpx;
+  background-color: blue;
+}
+#app {
+  width: 150rpx;
+  height: 150rpx;
+  background-color: pink;
+}

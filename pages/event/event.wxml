@@ -1,0 +1,6 @@
+<button bind:tap = "clicked">试一下</button>
+<input type="text" bind:focus="sayHi" bind:blur = "sayBye" />
+<button type="primary" bind:tap = "target">试一下</button>
+<view id="box" bind:tap = "father"  catchtap="">
+   <view id="app" bind:tap = "children"></view>
+</view>
